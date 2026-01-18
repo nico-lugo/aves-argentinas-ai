@@ -1,5 +1,5 @@
 {
-  "name": "aves-argentina-ai",
-  "main": "identify-bird.js",
-  "compatibility_date": "2026-01-18"
+  "name": "aves-argentinas-ai",
+  "compatibility_date": "2024-12-01",
+  "pages_build_output_dir": "."
 }
